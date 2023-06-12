@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>protfolio page</title>
+</head>
+<body>
+    <h1><b>Shivani kumari</b></h1>
+    <p>B.tech 2nd Year , EC</p>
+    <img src ="c:\Users\ARISE\Downloads\WhatsApp Image 2022-07-06 at 9.13.54 AM.jpeg"alt="my picture" height="100px" width="100px">
+    <h2><b>Education qualification</b></h2>
+    <ul>
+    <li>10th marks : 84%</li>
+    <li>12th marks: 85%</li>
+    <li>Graduation marks: 86%</li>
+    </ul>
+    <h2><b>Skills</b></h2>
+    <ul>
+        <li>JAVA , DSA , HTML , SQL , DBMS</li>
+    </ul>
+    <h2><b>Hobbies</b></h2>
+    <ul>
+        <li>Watching TV , Drawing , Playing , Listing song , Decorations etc....</li>
+    </ul>
+    <h2><b>Contact</b></h2>
+    <ul>
+        <li>Email : shivanijha1807@gmail.com</li>
+        <li>Linkdin I'd : www.linkedin.com/in/shivani-kumari-225525244</li>
+    </ul>
+    
+
+</body>
+</html>
